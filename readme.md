@@ -6,5 +6,5 @@ More info coming soon.
 * [Physics.Land](https://www.physics.land)  and also [PhysicsLand.github.io](https://physicsland.github.io)
 * Regression.fit (coming soon)  
 * Mathematics.land (coming soon)  
-* Facts.land  
+* Facts.land (coming soon)  
 
